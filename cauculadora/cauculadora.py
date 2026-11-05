@@ -1,0 +1,1 @@
+soma = int(input("digite: "))
